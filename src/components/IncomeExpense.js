@@ -15,6 +15,7 @@ export const IncomeExpense = () => {
 
     const expense = Math.abs(amounts.filter(item => item <= 0).reduce(accumulator, 0)).toFixed(2);
 
+    
     return (
         <div className="inc-exp-cont">
             <div id="border">
