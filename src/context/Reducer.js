@@ -1,4 +1,4 @@
-export default ReducerApp = (state, action)=>{
+export let ReducerApp = (state, action)=>{
     switch(action.type){
 
         case 'DELETE_TRANSACTION':
