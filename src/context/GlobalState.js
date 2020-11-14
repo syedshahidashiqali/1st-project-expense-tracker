@@ -1,7 +1,7 @@
 import React, { createContext, useReducer } from 'react';
 
 // import Reducer
-import Reducer  from './Reducer';
+import ReducerApp  from './Reducer';
 
 // create initial state
 const initialState = {

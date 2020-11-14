@@ -1,4 +1,4 @@
- Reducer = (state, action)=>{
+export default ReducerApp = (state, action)=>{
     switch(action.type){
 
         case 'DELETE_TRANSACTION':
@@ -16,4 +16,3 @@
     }
 }
 
-export default Reducer;
