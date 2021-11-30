@@ -3,6 +3,9 @@
 # You can view this project by the link mentioned below:
 ## [http://expense-tracker-app-by-shahid.surge.sh/](http://expense-tracker-app-by-shahid.surge.sh/)
 
+# Demo:
+![Preview](./expense-tracker-demo.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
